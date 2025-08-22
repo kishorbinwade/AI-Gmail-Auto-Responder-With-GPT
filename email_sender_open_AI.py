@@ -17,7 +17,7 @@ from openai import OpenAI
 # CONFIG
 # ======================
 SCOPES = ['https://www.googleapis.com/auth/gmail.modify']
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "Your Open AI Key"
 MODEL_NAME = "gpt-4o"
 CHECK_INTERVAL = 30  # seconds between checks
 
